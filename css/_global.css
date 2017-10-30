@@ -1,0 +1,39 @@
+*, *:before, *:after {
+  box-sizing: inherit;
+
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+	font-family: 'Microsoft JhengHei','Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	color:black;
+}
+
+a {
+	/* color: #000; */
+	text-decoration: none;
+}
+
+.site-footer a:hover {
+	color: #abdaff;
+}
+
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	width:100%;
+}
+
+.img-rounded {
+	border-radius: 50%;
+}
+
+li{
+	list-style:none;
+}

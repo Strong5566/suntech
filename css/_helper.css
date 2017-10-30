@@ -1,0 +1,40 @@
+/*浮動方向*/
+.pull-right {
+	float: right !important;
+}
+
+.pull-left {
+	float: left !important;
+}
+
+/*黑底白字*/
+.dark-bg {
+	background-color: #000;
+	color: #fff;
+}
+
+.dark-bg a{
+	color: #fff;
+}
+
+.dark-bg a:hover{
+	color: rgba(255,255,255,.6);
+}
+
+/*字體對其*/
+.text-center {
+	text-align: center;
+}
+
+/*字體白色*/
+.text-white {
+	color: #fff;
+}
+
+.site-footer a{
+	color:white;
+}
+
+.site-footer ul{
+	padding:0;
+}
